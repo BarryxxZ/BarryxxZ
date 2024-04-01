@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🎓 I’m currently pursuing MS degree, and majoring in multimedia security
-- 😀 My research topics of interest include multimedia steganalysis, image manipulation detection, deepfake detection, and image represenational learning
+- 😀 My research topics of interest include multimedia forensics, image represenational learning, etc.
 - 👇 Contact me with barryxxz6@gmail.com
 <!--
 **BarryxxZ/BarryxxZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
