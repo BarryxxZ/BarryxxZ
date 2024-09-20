@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🎓 I’m currently pursuing MS degree, and majoring in multimedia security
+- 🎓 I’m currently majoring in multimedia security
 - 😀 My research topics of interest include multimedia forensics, image representational learning, etc.
 - 👇 Contact me with barryxxz6@gmail.com
 <!--
