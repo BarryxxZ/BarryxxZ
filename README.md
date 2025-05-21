@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🎓 I’m currently majoring in multimedia security
-- 😀 My research topics of interest include multimedia forensics, digital watermarking, image representational learning, etc.
+- 😀 My research topics of interest include multimedia forensics, digital watermarking, etc.
 - 👇 Contact me with barryxxz6@gmail.com
 <!--
 **BarryxxZ/BarryxxZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
